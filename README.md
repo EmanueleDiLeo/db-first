@@ -6,7 +6,7 @@
 | name | VARCHAR(50) - NOT NULL |
 | brand | VARCHAR(50) - NOT NULL |
 | first_enrollment | DATE - NOT NULL |
-| kilometers | DOUBLE(3,3) - NOT NULL |
+| kilometers | DOUBLE(6,3) - NOT NULL |
 | fuel | VARCHAR(50) - NOT NULL |
 | plate | VARCHAR(7) - NOT NULL |
 | Inventory_number | VARCHAR(7) - NOT NULL |
